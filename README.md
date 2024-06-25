@@ -21,5 +21,5 @@ Examined the methods and game logic to determine how to play and survive in the 
 Noy Tsafrir - 208013755
 
 ## Image
+<img src="https://github.com/noytsafrir/DecompileAPK/assets/58825555/814757b6-ba20-44ea-94fe-894994d23a65" width="300" alt="Image Description">
 
-![9996fb05-dd00-4052-acc4-8095715d3aab](https://github.com/noytsafrir/DecompileAPK/assets/58825555/814757b6-ba20-44ea-94fe-894994d23a65)
